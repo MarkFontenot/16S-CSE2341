@@ -1,13 +1,13 @@
-name: Morea CORE (Change me)
+name: Data Structures - Spring 2016
 markdown: kramdown
 kramdown:
   hard_wrap: false
   input: GFM
   syntax_highlighter: rouge
 mathjax: true
-baseurl: /core
+baseurl: /16S-CSE2341
 exclude: [morea]
-morea_theme: spacelab
+morea_theme: flatly
 morea_navbar_items:
   #- Prerequisites
   - Modules
